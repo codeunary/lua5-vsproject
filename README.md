@@ -6,7 +6,8 @@ Visual Studio project files for compiling Lua 5.3
 - VS2015
 
 ## Usage
-Put this repository into the Lua source code directory,
+- [Download](https://www.lua.org/download.html) Lua source from the official website.
+- Put this repository into the Lua source code directory,
 and open the desired version of `Lua5.sln` in Visual Studio, e.g.,
 ```
 lua-5.3.3
